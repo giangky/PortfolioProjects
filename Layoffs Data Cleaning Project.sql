@@ -1,3 +1,9 @@
+/*
+
+Cleaning Data using SQL Queries
+
+*/
+
 SELECT * FROM layoffs;
 
 CREATE TABLE layoffs_staging LIKE layoffs;
